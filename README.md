@@ -46,9 +46,7 @@ Certifique-se de ter as seguintes dependências instaladas dentro do ambiente vi
 
 - Pandas 🐼
 - NumPy 🧮
-- Se
-
-aborn 📊
+- Seaborn 📊
 - Jupyter 📝
 
 Você pode instalar as dependências usando o gerenciador de pacotes do Python, pip 📦
